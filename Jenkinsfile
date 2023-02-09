@@ -3,8 +3,7 @@ pipeline {
 	stages {
 		stage("Run code"){
 			steps {
-				echo "the branch: main"
-				echo "the branch: main2"
+				echo "the branch: mybranch"
 		}
 	}
 }
