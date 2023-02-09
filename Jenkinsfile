@@ -5,6 +5,7 @@ pipeline {
 			steps {
 				echo "the branch: main"
 				echo "My nami is Guy"
+			}
 		}
 	}
 }
