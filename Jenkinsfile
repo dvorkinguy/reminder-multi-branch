@@ -4,6 +4,7 @@ pipeline {
 		stage("Run code"){
 			steps {
 				echo "the branch: main"
+				echo "My nami is Guy"
 		}
 	}
 }
